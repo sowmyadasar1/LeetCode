@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 <!---LeetCode Topics End-->
