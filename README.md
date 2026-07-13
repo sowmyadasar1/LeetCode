@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/sowmyadasar1/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -23,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/sowmyadasar1/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Array
 | Problem Name | Difficulty |
