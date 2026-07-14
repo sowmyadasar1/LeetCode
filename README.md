@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/sowmyadasar1/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/sowmyadasar1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
