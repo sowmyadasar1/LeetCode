@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 <!---LeetCode Topics End-->
