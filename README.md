@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0194-transpose-file](https://github.com/sowmyadasar1/LeetCode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0195-tenth-line/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
