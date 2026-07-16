@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/sowmyadasar1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/sowmyadasar1/LeetCode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Array
 | Problem Name | Difficulty |
