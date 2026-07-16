@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Divide and Conquer
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0174-dungeon-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 <!---LeetCode Topics End-->
