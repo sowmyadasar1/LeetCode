@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,10 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/sowmyadasar1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0174-dungeon-game/) | Hard |
+| [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
