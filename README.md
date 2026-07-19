@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/sowmyadasar1/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
