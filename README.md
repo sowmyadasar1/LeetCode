@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sowmyadasar1/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/sowmyadasar1/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,9 +172,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 <!---LeetCode Topics End-->
