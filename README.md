@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/sowmyadasar1/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 <!---LeetCode Topics End-->
