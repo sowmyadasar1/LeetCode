@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sowmyadasar1/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
