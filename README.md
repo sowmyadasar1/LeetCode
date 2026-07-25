@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/sowmyadasar1/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +203,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
 <!---LeetCode Topics End-->
