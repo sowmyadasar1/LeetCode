@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/sowmyadasar1/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
+| [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sowmyadasar1/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
