@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
+| [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/sowmyadasar1/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 <!---LeetCode Topics End-->
