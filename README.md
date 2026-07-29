@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
