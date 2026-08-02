@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
