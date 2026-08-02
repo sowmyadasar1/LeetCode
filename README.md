@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0394-decode-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0394-decode-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
