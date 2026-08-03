@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,10 +218,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sowmyadasar1/LeetCode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
