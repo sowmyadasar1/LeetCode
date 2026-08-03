@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/sowmyadasar1/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0393-utf-8-validation](https://github.com/sowmyadasar1/LeetCode/tree/main/0393-utf-8-validation/) | Medium |
+| [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
