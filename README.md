@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0384-shuffle-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0393-utf-8-validation](https://github.com/sowmyadasar1/LeetCode/tree/main/0393-utf-8-validation/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,11 +117,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/sowmyadasar1/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0385-mini-parser](https://github.com/sowmyadasar1/LeetCode/tree/main/0385-mini-parser/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/sowmyadasar1/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sowmyadasar1/LeetCode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sowmyadasar1/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,4 +244,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
