@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/sowmyadasar1/LeetCode/tree/main/0390-elimination-game/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
+| [0400-nth-digit](https://github.com/sowmyadasar1/LeetCode/tree/main/0400-nth-digit/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0400-nth-digit](https://github.com/sowmyadasar1/LeetCode/tree/main/0400-nth-digit/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
