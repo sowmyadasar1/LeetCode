@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/sowmyadasar1/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/sowmyadasar1/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/sowmyadasar1/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0413-arithmetic-slices](https://github.com/sowmyadasar1/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/sowmyadasar1/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/sowmyadasar1/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
