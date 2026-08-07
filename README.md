@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0403-frog-jump](https://github.com/sowmyadasar1/LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/sowmyadasar1/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sowmyadasar1/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0400-nth-digit](https://github.com/sowmyadasar1/LeetCode/tree/main/0400-nth-digit/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sowmyadasar1/LeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/sowmyadasar1/LeetCode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sowmyadasar1/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
