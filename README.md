@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/sowmyadasar1/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/sowmyadasar1/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0414-third-maximum-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/sowmyadasar1/LeetCode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0414-third-maximum-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
