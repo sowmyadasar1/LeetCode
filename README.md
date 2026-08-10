@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sowmyadasar1/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
 <!---LeetCode Topics End-->
