@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/sowmyadasar1/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/sowmyadasar1/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/sowmyadasar1/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/sowmyadasar1/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0393-utf-8-validation](https://github.com/sowmyadasar1/LeetCode/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0397-integer-replacement/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/sowmyadasar1/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
