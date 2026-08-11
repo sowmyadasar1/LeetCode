@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sowmyadasar1/LeetCode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sowmyadasar1/LeetCode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sowmyadasar1/LeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/sowmyadasar1/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/sowmyadasar1/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
