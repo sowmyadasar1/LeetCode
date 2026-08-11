@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/sowmyadasar1/LeetCode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0391-perfect-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0398-random-pick-index](https://github.com/sowmyadasar1/LeetCode/tree/main/0398-random-pick-index/) | Medium |
 | [0400-nth-digit](https://github.com/sowmyadasar1/LeetCode/tree/main/0400-nth-digit/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/sowmyadasar1/LeetCode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0409-longest-palindrome](https://github.com/sowmyadasar1/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
+| [0423-reconstruct-original-digits-from-english](https://github.com/sowmyadasar1/LeetCode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
