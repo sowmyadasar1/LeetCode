@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sowmyadasar1/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/sowmyadasar1/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/sowmyadasar1/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/sowmyadasar1/LeetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sowmyadasar1/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/sowmyadasar1/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0427-construct-quad-tree](https://github.com/sowmyadasar1/LeetCode/tree/main/0427-construct-quad-tree/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/sowmyadasar1/LeetCode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
