@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/sowmyadasar1/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0382-linked-list-random-node](https://github.com/sowmyadasar1/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/sowmyadasar1/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/sowmyadasar1/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/sowmyadasar1/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,4 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0420-strong-password-checker](https://github.com/sowmyadasar1/LeetCode/tree/main/0420-strong-password-checker/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sowmyadasar1/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
