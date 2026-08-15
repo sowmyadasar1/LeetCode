@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 <!---LeetCode Topics End-->
