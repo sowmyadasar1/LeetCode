@@ -8,6 +8,7 @@
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
