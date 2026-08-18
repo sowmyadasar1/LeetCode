@@ -71,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/sowmyadasar1/LeetCode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 <!---LeetCode Topics End-->
