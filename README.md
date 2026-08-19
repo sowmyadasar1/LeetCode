@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sowmyadasar1/LeetCode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
