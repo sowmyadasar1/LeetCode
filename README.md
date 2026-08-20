@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 <!---LeetCode Topics End-->
