@@ -25,6 +25,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -87,9 +88,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
