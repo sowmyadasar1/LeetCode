@@ -43,10 +43,12 @@
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
