@@ -46,6 +46,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sowmyadasar1/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sowmyadasar1/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
