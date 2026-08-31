@@ -10,6 +10,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sowmyadasar1/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0454-4sum-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
