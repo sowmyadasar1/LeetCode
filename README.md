@@ -31,6 +31,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
