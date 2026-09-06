@@ -123,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0461-hamming-distance](https://github.com/sowmyadasar1/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 <!---LeetCode Topics End-->
