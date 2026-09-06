@@ -11,19 +11,23 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0454-4sum-ii/) | Medium |
+| [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
