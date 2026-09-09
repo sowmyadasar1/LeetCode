@@ -37,6 +37,7 @@
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/sowmyadasar1/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
