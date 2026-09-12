@@ -117,6 +117,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sowmyadasar1/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
+| [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +159,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 <!---LeetCode Topics End-->
