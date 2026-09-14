@@ -39,6 +39,7 @@
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0468-validate-ip-address](https://github.com/sowmyadasar1/LeetCode/tree/main/0468-validate-ip-address/) | Medium |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [0454-4sum-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +82,7 @@
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +96,7 @@
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sowmyadasar1/LeetCode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
+| [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
