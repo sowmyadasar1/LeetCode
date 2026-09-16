@@ -40,6 +40,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0468-validate-ip-address](https://github.com/sowmyadasar1/LeetCode/tree/main/0468-validate-ip-address/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
+| [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
+| [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
+| [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 <!---LeetCode Topics End-->
