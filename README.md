@@ -64,6 +64,7 @@
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,10 +87,12 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sowmyadasar1/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
+| [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
+| [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@
 | ------- | ------- |
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
+| [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
