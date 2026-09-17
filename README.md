@@ -156,6 +156,7 @@
 | ------- | ------- |
 | [0461-hamming-distance](https://github.com/sowmyadasar1/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
+| [0476-number-complement](https://github.com/sowmyadasar1/LeetCode/tree/main/0476-number-complement/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
