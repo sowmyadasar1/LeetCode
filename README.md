@@ -131,6 +131,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
+| [0479-largest-palindrome-product](https://github.com/sowmyadasar1/LeetCode/tree/main/0479-largest-palindrome-product/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0479-largest-palindrome-product](https://github.com/sowmyadasar1/LeetCode/tree/main/0479-largest-palindrome-product/) | Hard |
 <!---LeetCode Topics End-->
