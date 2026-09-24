@@ -42,6 +42,7 @@
 | [0468-validate-ip-address](https://github.com/sowmyadasar1/LeetCode/tree/main/0468-validate-ip-address/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0481-magical-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0481-magical-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
+| [0481-magical-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0481-magical-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
