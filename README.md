@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
+| [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
 | [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/sowmyadasar1/LeetCode/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
