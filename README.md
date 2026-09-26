@@ -68,6 +68,7 @@
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/sowmyadasar1/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
