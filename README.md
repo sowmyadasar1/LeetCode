@@ -69,6 +69,7 @@
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/sowmyadasar1/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/sowmyadasar1/LeetCode/tree/main/0470-implement-rand10-using-rand7/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/sowmyadasar1/LeetCode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +218,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
