@@ -13,6 +13,7 @@
 | [0454-4sum-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0454-4sum-ii/) | Medium |
 | [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/sowmyadasar1/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@
 | [0461-hamming-distance](https://github.com/sowmyadasar1/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0464-can-i-win](https://github.com/sowmyadasar1/LeetCode/tree/main/0464-can-i-win/) | Medium |
 | [0476-number-complement](https://github.com/sowmyadasar1/LeetCode/tree/main/0476-number-complement/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 <!---LeetCode Topics End-->
