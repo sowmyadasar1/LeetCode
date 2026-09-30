@@ -145,6 +145,7 @@
 | [0479-largest-palindrome-product](https://github.com/sowmyadasar1/LeetCode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
