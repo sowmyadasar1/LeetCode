@@ -72,6 +72,7 @@
 | [0485-max-consecutive-ones](https://github.com/sowmyadasar1/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | [0436-find-right-interval](https://github.com/sowmyadasar1/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
 | [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,4 +241,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
