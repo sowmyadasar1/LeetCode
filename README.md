@@ -73,6 +73,7 @@
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0495-teemo-attacking](https://github.com/sowmyadasar1/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sowmyadasar1/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0495-teemo-attacking](https://github.com/sowmyadasar1/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
