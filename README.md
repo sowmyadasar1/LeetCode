@@ -14,6 +14,7 @@
 | [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/sowmyadasar1/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +266,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
