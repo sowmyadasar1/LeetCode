@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/sowmyadasar1/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0460-lfu-cache](https://github.com/sowmyadasar1/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/sowmyadasar1/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/sowmyadasar1/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0466-count-the-repetitions](https://github.com/sowmyadasar1/LeetCode/tree/main/0466-count-the-repetitions/) | Hard |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0467-unique-substrings-in-wraparound-string/) | Medium |
@@ -49,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/sowmyadasar1/LeetCode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -111,16 +114,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0463-island-perimeter](https://github.com/sowmyadasar1/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 <!---LeetCode Topics End-->
