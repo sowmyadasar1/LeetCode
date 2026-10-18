@@ -15,6 +15,7 @@
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/sowmyadasar1/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0481-magical-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0481-magical-string/) | Medium |
+| [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 | [0493-reverse-pairs](https://github.com/sowmyadasar1/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0495-teemo-attacking](https://github.com/sowmyadasar1/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
