@@ -115,6 +115,7 @@
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/sowmyadasar1/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +282,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sowmyadasar1/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
