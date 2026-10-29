@@ -82,6 +82,7 @@
 | [0495-teemo-attacking](https://github.com/sowmyadasar1/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0502-ipo](https://github.com/sowmyadasar1/LeetCode/tree/main/0502-ipo/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/sowmyadasar1/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0502-ipo](https://github.com/sowmyadasar1/LeetCode/tree/main/0502-ipo/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/sowmyadasar1/LeetCode/tree/main/0472-concatenated-words/) | Hard |
 | [0475-heaters](https://github.com/sowmyadasar1/LeetCode/tree/main/0475-heaters/) | Medium |
+| [0502-ipo](https://github.com/sowmyadasar1/LeetCode/tree/main/0502-ipo/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +242,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/sowmyadasar1/LeetCode/tree/main/0480-sliding-window-median/) | Hard |
+| [0502-ipo](https://github.com/sowmyadasar1/LeetCode/tree/main/0502-ipo/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
