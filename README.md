@@ -83,6 +83,7 @@
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/sowmyadasar1/LeetCode/tree/main/0502-ipo/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/sowmyadasar1/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sowmyadasar1/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
