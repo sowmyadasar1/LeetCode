@@ -49,6 +49,7 @@
 | [0474-ones-and-zeroes](https://github.com/sowmyadasar1/LeetCode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0481-magical-string](https://github.com/sowmyadasar1/LeetCode/tree/main/0481-magical-string/) | Medium |
 | [0500-keyboard-row](https://github.com/sowmyadasar1/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0504-base-7](https://github.com/sowmyadasar1/LeetCode/tree/main/0504-base-7/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@
 | [0483-smallest-good-base](https://github.com/sowmyadasar1/LeetCode/tree/main/0483-smallest-good-base/) | Hard |
 | [0486-predict-the-winner](https://github.com/sowmyadasar1/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/sowmyadasar1/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0504-base-7](https://github.com/sowmyadasar1/LeetCode/tree/main/0504-base-7/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
